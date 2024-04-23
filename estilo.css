@@ -1,0 +1,26 @@
+body{
+    background-image: url(fut.jpg);
+
+  
+}
+
+.contenedor>footer{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:white;
+}
+
+
+
+.cuatro{
+
+    width: 749px;
+    height: 500px;
+
+}
+.lista{
+    
+    color:white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
